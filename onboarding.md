@@ -67,6 +67,7 @@ Gearing up
 * [ ] When you manage to connect to our VPN you will then be able to access https://intra.niteoweb.com/. Ask @niteoweb/peopleops to create an account for you by posting a comment to this issue -- login credentials should arrive in a separate email.
 * [ ] Ask @niteoweb/peopleops to create your [Team Member Page](https://intra.niteoweb.com/people/team-members) for you on Intra.
 * [ ] Sign up on GitHub.com and ask @niteoweb/peopleops to add you to Niteo organization by posting a comment with your GitHub username on this ticket.
+* [ ] Install [ZenHub](https://www.zenhub.com/) addon to extend GitHub functionality (we use it for SCRUM).
 * [ ] [Sign up to Slack](https://join.slack.com/niteoweb/signup) , our Team Chat. Use the same username as you do on GitHub.
 * [ ] Introduce yourself by saying Hi and writing a sentence about yourself in the #operations Slack channel.
 * [ ] Read [Using Slack](https://github.com/niteoweb/handbook/blob/master/using-slack.md). It's recommended to take some time to read through old messages in main channels to start getting an idea of how we function.
@@ -164,6 +165,7 @@ On your first day
 * [ ] Added to group Full Time on intra, gaining access to private reports.
 * [ ] Heroku access.
 * [ ] GitHub repositories access.
+* [ ] ZenHub Team invitation.
 * [ ] Invite to donations spreadsheet.
 ```
 
